@@ -1,0 +1,29 @@
+# textdomain: nei
+
+Recipes=Рецепты
+Usages=Применения
+Cheat=Читы
+Implements=Рецепты этого механизма
+
+@1/@2=@1/@2
+Page @1/@2=Страница @1/@2
+Change Mode=Сменить режим
+Current mode: @1=Текущий режим: @1
+Given @1 @2 to @3=@3 получил @1 @2
+Recipe @1 of @2=Рецепт @1 из @2
+
+Utility=Утилиты
+NeverEnoughItems=Браузер рецептов
+Main Page=Главная
+Integrated Inventory=Интегрированный инвентарь
+
+Inventory is full!=Инвентарь заполнен!
+
+No @1 found for this item.=Для этого предмета не найдено @1.
+recipes=рецептов
+usages=применений
+implements=видов создания
+Possible substitutions:=Возможные варианты:
+@1 Mod=Мод @1
+Show=Показать
+Hide=Скрыть

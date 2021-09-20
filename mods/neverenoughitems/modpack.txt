@@ -1,0 +1,4 @@
+This is the Inventory module, ported from Trinium game. It contains mods changing the game GUIs and HUDs.
+
+* nei - item recipes and list of all items ingame
+* betterinv - api for the mod above
