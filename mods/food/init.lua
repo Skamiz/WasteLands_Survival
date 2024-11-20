@@ -1,6 +1,9 @@
+local modname = minetest.get_current_modname()
+local modpath = minetest.get_modpath(modname)
 food = {}
 
-dofile(minetest.get_modpath('food')..'/bugs.lua')
+dofile(modpath .. '/bugs.lua')
+dofile(modpath .. '/cauldron.lua')
 
 minetest.register_craftitem("food:can", {
 	description = "A Can of Preserved Food",
